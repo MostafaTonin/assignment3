@@ -33,13 +33,17 @@ The application contains:
 
 ---
 
-🖼️ **App Output**
+### App Screenshots
 
-**Splash Screen**  
-![Splash Screen](screenshots/splash)
+#### Splash Screen
+<p align="center">
+  <img src="screenshots/splash.png" width="45%" />
+</p>
 
-**Home Screen**  
-![Home Screen](screenshots/home)
+#### Home Screen
+<p align="center">
+  <img src="screenshots/home.png" width="45%" />
+</p>
 
 ---
 
