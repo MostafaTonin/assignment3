@@ -36,10 +36,10 @@ The application contains:
 🖼️ **App Output**
 
 **Splash Screen**  
-![Splash Screen](screenshots/splash.png)
+![Splash Screen](screenshots/splash)
 
 **Home Screen**  
-![Home Screen](screenshots/home.png)
+![Home Screen](screenshots/home)
 
 ---
 
