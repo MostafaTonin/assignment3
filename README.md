@@ -4,7 +4,7 @@
 [![Dart](https://img.shields.io/badge/Dart-3.1-blue?logo=dart)](https://dart.dev/)
 [![License](https://img.shields.io/badge/License-Educational-green)](LICENSE)
 
-This project is a **Flutter application** demonstrating a modern and professional UI design for a **business management app**, featuring a **Splash Screen** and a **Home Dashboard**.
+This project is a **Flutter application** demonstrating a modern and professional UI design for a **Business Management App**, featuring a **Splash Screen** and a **Home Dashboard**.
 
 ---
 
@@ -27,9 +27,9 @@ The application contains:
     - Suppliers 🏭  
     - Settings ⚙️  
     - Profile 👤  
-  - Professional colors using `AppColors`  
-  - Reusable `HomeCard` widget  
-  - Responsive and clean UI for all screen sizes  
+  - Professional color theme using `AppColors`  
+  - Reusable `HomeCard` widget for each department  
+  - Responsive and clean UI for multiple screen sizes  
 
 ---
 
