@@ -37,7 +37,7 @@ The application contains:
 
 #### Splash Screen
 <p align="center">
-  <img src="screenshots/splash.png" width="45%" />
+  <img src="screenshots/splash.png" width="40%" />
 </p>
 
 #### Home Screen
